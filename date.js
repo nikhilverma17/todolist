@@ -17,6 +17,6 @@ exports.getTime = function () {
         minute: '2-digit'
 
     };
-    return d.toLocaleTimeString("en-US", options);
+    return d.toLocaleTimeString("en-IN", options);
     return time;
 }
