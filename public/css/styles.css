@@ -77,6 +77,18 @@ button {
   padding-bottom: 6px;
   border-width: 0;
 }
+.button1{
+  min-height: 50px;
+  width: 90px;
+  border-radius: 12px;
+  border-color: transparent;
+  background-color: #A683E3;
+  color: #fff;
+  font-size: 30px;
+  padding-bottom: 6px;
+  margin: 10px;
+  border-width: 0;
+}
 
 input[type="text"] {
   text-align: center;
